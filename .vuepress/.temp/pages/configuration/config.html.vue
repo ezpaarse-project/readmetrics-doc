@@ -1,0 +1,92 @@
+<template><h2 id="ezmesure" tabindex="-1"><a class="header-anchor" href="#ezmesure" aria-hidden="true">#</a> ezMESURE</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EZMESURE_DOMAIN</td>
+<td>Server domain</td>
+</tr>
+<tr>
+<td>APPLI_APACHE_SERVERADMIN</td>
+<td>Admin of the server</td>
+</tr>
+<tr>
+<td>EZMESURE_DISABLE_SHIBBOLETH</td>
+<td>Disable Shibboleth connection</td>
+</tr>
+<tr>
+<td>EZMESURE_AUTH_SECRET</td>
+<td>Secret for JWT signing</td>
+</tr>
+<tr>
+<td>EZMESURE_ENCRYPTION_SECRET</td>
+<td>Secret for encryption</td>
+</tr>
+<tr>
+<td>ELASTICSEARCH_USERNAME</td>
+<td>Elasticsearch username</td>
+</tr>
+<tr>
+<td>ELASTICSEARCH_PASSWORD</td>
+<td>Elasticsearch password</td>
+</tr>
+<tr>
+<td>EZMESURE_SMTP_HOST</td>
+<td>SMTP host server</td>
+</tr>
+<tr>
+<td>EZMESURE_ES_MEM_LIMIT</td>
+<td>Memory limit for elasticsearch</td>
+</tr>
+<tr>
+<td>ES_JAVA_OPTS</td>
+<td>Java options for elasticsearch</td>
+</tr>
+<tr>
+<td>EZMESURE_NODES</td>
+<td></td>
+</tr>
+<tr>
+<td>EZMESURE_ES_NODE_MASTER</td>
+<td></td>
+</tr>
+<tr>
+<td>EZMESURE_ES_NODE_DATA</td>
+<td></td>
+</tr>
+<tr>
+<td>EZMESURE_ES_NODE_INGEST</td>
+<td></td>
+</tr>
+<tr>
+<td>EZMESURE_ES_NODE_SEARCH_REMOTE</td>
+<td></td>
+</tr>
+<tr>
+<td>EZMESURE_NOTIFICATIONS_SENDER</td>
+<td>Sender for emails issued by ezMESURE</td>
+</tr>
+<tr>
+<td>EZMESURE_NOTIFICATIONS_RECIPIENTS</td>
+<td>Recipients of the recent activity email</td>
+</tr>
+<tr>
+<td>EZMESURE_NOTIFICATIONS_CRON</td>
+<td>Cron for recent activity (defaults to daily midnight)</td>
+</tr>
+<tr>
+<td>REPORTING_SENDER</td>
+<td>Sender for reporting emails</td>
+</tr>
+<tr>
+<td>KIBANA_EXTERNAL_URL</td>
+<td>Kibana's URL</td>
+</tr>
+</tbody>
+</table>
+</template>
