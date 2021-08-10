@@ -41,7 +41,7 @@ module.exports = {
   },
 
   themeConfig: {
-    repo: 'ezpaarse-project/readmetrics-scripts',
+    repo: 'ezpaarse-project/readmetrics-doc',
     docsBranch: 'master',
     docsDir: 'docs',
     editLinkPattern: ':repo/edit/:branch/:path',
