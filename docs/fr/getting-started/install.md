@@ -16,7 +16,7 @@ cd readmetrics-scripts
 ./install.sh
 ```
 
-## Déisnstaller ReadMETRICS
+## Désinstaller ReadMETRICS
 
 Arrêter et supprimer les conteneurs docker :
 

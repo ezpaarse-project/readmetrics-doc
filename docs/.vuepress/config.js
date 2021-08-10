@@ -46,6 +46,8 @@ module.exports = {
     docsDir: 'docs',
     editLinkPattern: ':repo/edit/:branch/:path',
 
+    contributors: false,
+
     logo: '/images/icons/icon-192x192.png',
 
     locales: {
