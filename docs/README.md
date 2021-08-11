@@ -41,3 +41,10 @@ An [open-source software](https://github.com/ezpaarse-project/ezpaarse/) that ca
 An [open-source software](https://github.com/ezpaarse-project/ezmesure/) built upon [Elastic and Kibana](https://www.elastic.co/fr/) to assemble a repository centralizing the usage statistics data produced by one or many instances of ezPAARSE. It is also able to ingest [COUNTER5](https://www.projectcounter.org/code-of-practice-five-sections/abstract/) data.
 
 ![ezMESURE Dashboard](/readmetrics-doc/images/ezmesure_dashboard.png)
+
+## Links
+
+- Luxemburg National Library [Consortial Department](https://www.consortium.lu/)
+- [Inist-CNRS](https://www.inist.fr/)
+- [Couperin.org](https://www.couperin.org/)
+- The ezPAARSE [Youtube channel](https://www.youtube.com/ezpaarse)
