@@ -4,7 +4,7 @@ const { navbar, sidebar } = require('./configs');
 module.exports = {
   title: 'ReadMETRICS',
   description: 'ReadMETRICS Documentation',
-  base: '/',
+  base: '/readmetrics-doc/',
 
   head: [
     [
