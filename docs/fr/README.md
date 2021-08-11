@@ -41,4 +41,4 @@ Un [logiciel libre](https://github.com/ezpaarse-project/ezpaarse/) qui peut ing�
 
 Un [logiciel libre](https://github.com/ezpaarse-project/ezmesure/) basé sur [Elastic et Kibana](https://www.elastic.co/fr/) pour constituer un répertoire centralisant les données statistiques d'utilisation produites par une ou plusieurs instances d'ezPAARSE. Il est également capable d'ingérer les données de [COUNTER5](https://www.projectcounter.org/code-of-practice-five-sections/abstract/).
 
-![ezMESURE Dashboard](/images/ezmesure_dashboard.png)
+![ezMESURE Dashboard](/readmetrics-doc/images/ezmesure_dashboard.png)
